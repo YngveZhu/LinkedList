@@ -2,6 +2,16 @@
 
 > 采用链表实现的数组结构
 
+### 引入
+
+```xml
+<dependency>
+	<groupId>top.zyqer</groupId>
+    	<artifactId>LinkedNodes</artifactId>
+    <version>2.5.1-RELEASE</version>
+</dependency>
+```
+
 ### 使用方法
 
 > LinkedList<T> 变量名 = new LinkedList<>(int val);
